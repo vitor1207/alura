@@ -1,0 +1,42 @@
+.caixa {
+    width: 940px;
+    position:relative;
+margin: 0 auto;
+}
+.produtos li{
+    display: inline-block;
+    text-align:center;
+    width: 30%;
+    vertical-align: top;
+    background: #CCCCCC;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: black;
+border-width: 2px;
+border-style: solid;
+border-top-width: 6px;
+border-bottom-width: 10px;
+border-style:dotted;
+border: 2px black solid;
+border-radius: 50px; border-radius: 12px;
+border-radius: 12px 50px 2px 120px;
+    }
+    .produtos {
+        width: 940px;
+        margin: 0 auto;
+        padding: 50px 0;
+        }
+        .produtos h2{
+            font-size:30px;
+            font-weight: bold;
+            }
+            .produto-preco {
+                font-size:22px;
+                font-weight: bold;
+                margin: 10px 0 0 0;
+                }
+                .produto-descricao{
+                    font-size:18px;
+                    }
+                   

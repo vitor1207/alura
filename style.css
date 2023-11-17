@@ -46,3 +46,8 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+nav {
+	position:absolute;
+	top : 0;
+	right: 0;
+	}
